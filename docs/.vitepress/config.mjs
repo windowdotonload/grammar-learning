@@ -5,7 +5,6 @@ export default defineConfig({
   title: "英语语法大全",
   description: "English Grammar Encyclopedia",
   base: "/grammar-learning/",
-  outDir: "../../dist",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
